@@ -17,3 +17,5 @@ Burp Pro Fast Crawler
 python3 burp-int.py -f <PathToList.txt> -k <BurpAPIKey>
 ```
 
+# Note: 
+I strongly advise you to set your scope(s) in Burp before running the script.
